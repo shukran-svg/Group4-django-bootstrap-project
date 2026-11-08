@@ -4,163 +4,80 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5f376cb-3a90-4725-ac99-2f3cb87e652b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="1b3b225f-3410-46d8-b825-206dce75262e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;shukran-svg&quot;
-  }
-}</component>
-  <component name="GitToolBoxStore">
-    <option name="recentBranches">
-      <RecentBranches>
-        <option name="branchesForRepo">
-          <list>
-            <RecentBranchesForRepo>
-              <option name="branches">
-                <list>
-                  <RecentBranch>
-                    <option name="branchName" value="feature/set-up-django" />
-                    <option name="lastUsedInstant" value="1793964716" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1793964715" />
-                  </RecentBranch>
-                </list>
-              </option>
-              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
-            </RecentBranchesForRepo>
-          </list>
-        </option>
-      </RecentBranches>
-    </option>
-  </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/shukran-svg/Group4-django-bootstrap-project.git&quot;,
-    &quot;accountId&quot;: &quot;236c2929-155e-4c9c-a84b-b128c852a546&quot;
-  }
-}</component>
-  <component name="McpProjectServerCommands">
-    <commands />
-    <urls />
-  </component>
-  <component name="NextEditCompletionFeaturesState">
-    <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000003938976" />
-      <entry key="S2" value="1.007951834200143" />
-      <entry key="S5" value="1.273460321917181" />
-      <entry key="S10" value="1.9725165644308156" />
-      <entry key="S30" value="3.8732763366139786" />
-      <entry key="S60" value="5.077204963771803" />
-      <entry key="M2" value="6.4598134071771405" />
-      <entry key="M5" value="15.37451805570951" />
-      <entry key="M10" value="40.78099572181505" />
-      <entry key="M15" value="65.71385733748194" />
-      <entry key="M30" value="114.76241581107885" />
-      <entry key="H1" value="156.05957073991323" />
-      <entry key="H2" value="183.20868302953707" />
-      <entry key="H4" value="198.82579186026342" />
-      <entry key="D1" value="213.0226258501807" />
-      <entry key="W1" value="215.5717499211978" />
-    </decayedCancelled>
-    <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.1526330433798677E-140" />
-      <entry key="S5" value="1.0584648156999042E-56" />
-      <entry key="S10" value="1.028817192556532E-28" />
-      <entry key="S30" value="4.685753134880748E-10" />
-      <entry key="S60" value="2.164678655233516E-5" />
-      <entry key="M2" value="0.004666230621760566" />
-      <entry key="M5" value="0.12802393528294556" />
-      <entry key="M10" value="0.44802163897030595" />
-      <entry key="M15" value="0.713229038770091" />
-      <entry key="M30" value="1.17292202157084" />
-      <entry key="H1" value="1.524474748706347" />
-      <entry key="H2" value="1.7440687482187076" />
-      <entry key="H4" value="1.867104625825657" />
-      <entry key="D1" value="1.9771303269379392" />
-      <entry key="W1" value="1.996714773412906" />
-    </decayedSelected>
-    <decayedShown>
-      <entry key="MS100" value="0.7845840978967508" />
-      <entry key="MS500" value="0.952637998088116" />
-      <entry key="S2" value="0.9928989674073857" />
-      <entry key="S5" value="1.2214092644516141" />
-      <entry key="S10" value="1.8739722674940849" />
-      <entry key="S30" value="3.7463938229366405" />
-      <entry key="S60" value="4.978259109623052" />
-      <entry key="M2" value="6.401422012844264" />
-      <entry key="M5" value="15.471393665793808" />
-      <entry key="M10" value="41.210344508430765" />
-      <entry key="M15" value="66.41319243416966" />
-      <entry key="M30" value="115.92720612217235" />
-      <entry key="H1" value="157.57953766890583" />
-      <entry key="H2" value="184.95036085879616" />
-      <entry key="H4" value="200.6916627392581" />
-      <entry key="D1" value="214.99954485242054" />
-      <entry key="W1" value="217.56843436048695" />
-    </decayedShown>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3LjPO5lsGAK1hxGzuQvyGSZ1Cyk" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3Lp8BSI1ep7JiJJ30d3QdQzyZ85" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.MCP Project settings loaded": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.about.html.executor": "Run",
+    "JavaScript Debug.blog-home.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.urls.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature/static-assets",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/sshuk/PycharmProjects/Group4-django-bootstrap-project/assets/js",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "to.speed.mode.migration.done": "true"
+    "git-widget-placeholder": "main",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sshuk\PycharmProjects\Group4-django-bootstrap-project\assets" />
-      <recent name="C:\Users\sshuk\PycharmProjects\Group4-django-bootstrap-project\assets\js" />
-      <recent name="C:\Users\sshuk\PycharmProjects\Group4-django-bootstrap-project\assets\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sshuk\PycharmProjects\Group4-django-bootstrap-project\assets\images" />
-    </key>
+  <component name="RunManager" selected="Python.urls">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Group4-django-bootstrap-project/templates/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Group4-django-bootstrap-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.urls" />
+        <item itemvalue="JavaScript Debug.about.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -171,43 +88,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f5f376cb-3a90-4725-ac99-2f3cb87e652b" name="Changes" comment="" />
-      <created>1793964468745</created>
+      <changelist id="1b3b225f-3410-46d8-b825-206dce75262e" name="Changes" comment="" />
+      <created>1794139513010</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1793964468745</updated>
-      <workItem from="1793964471284" duration="2469000" />
+      <updated>1794139513010</updated>
+      <workItem from="1794139514038" duration="16575000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/feature/set-up-django" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="stach changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="stach changes" />
   </component>
 </project>
