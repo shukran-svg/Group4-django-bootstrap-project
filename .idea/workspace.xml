@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5f376cb-3a90-4725-ac99-2f3cb87e652b" name="Changes" comment="" />
+    <list default="true" id="f5f376cb-3a90-4725-ac99-2f3cb87e652b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +23,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shukran-svg"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shukran-svg&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -49,12 +54,12 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shukran-svg/Group4-django-bootstrap-project.git",
-    "accountId": "236c2929-155e-4c9c-a84b-b128c852a546"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shukran-svg/Group4-django-bootstrap-project.git&quot;,
+    &quot;accountId&quot;: &quot;236c2929-155e-4c9c-a84b-b128c852a546&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -62,66 +67,66 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000004997301144" />
-      <entry key="S5" value="1.008052188929384" />
-      <entry key="S10" value="1.2223005015518897" />
-      <entry key="S30" value="3.5179686771109395" />
-      <entry key="S60" value="6.876064048554465" />
-      <entry key="M2" value="12.836175024387826" />
-      <entry key="M5" value="31.20814102736516" />
-      <entry key="M10" value="63.91004762483769" />
-      <entry key="M15" value="89.63508905529815" />
-      <entry key="M30" value="133.06598188980422" />
-      <entry key="H1" value="165.62073497639764" />
-      <entry key="H2" value="185.7358073844" />
-      <entry key="H4" value="196.9423568048985" />
-      <entry key="D1" value="206.92835690900472" />
-      <entry key="W1" value="208.70249189252505" />
+      <entry key="MS500" value="1.0000000003938976" />
+      <entry key="S2" value="1.007951834200143" />
+      <entry key="S5" value="1.273460321917181" />
+      <entry key="S10" value="1.9725165644308156" />
+      <entry key="S30" value="3.8732763366139786" />
+      <entry key="S60" value="5.077204963771803" />
+      <entry key="M2" value="6.4598134071771405" />
+      <entry key="M5" value="15.37451805570951" />
+      <entry key="M10" value="40.78099572181505" />
+      <entry key="M15" value="65.71385733748194" />
+      <entry key="M30" value="114.76241581107885" />
+      <entry key="H1" value="156.05957073991323" />
+      <entry key="H2" value="183.20868302953707" />
+      <entry key="H4" value="198.82579186026342" />
+      <entry key="D1" value="213.0226258501807" />
+      <entry key="W1" value="215.5717499211978" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="6.631420841661682E-232" />
-      <entry key="S2" value="1.6047288019241212E-58" />
-      <entry key="S5" value="7.623609788200193E-24" />
-      <entry key="S10" value="2.7610885150969346E-12" />
-      <entry key="S30" value="1.4029001980425736E-4" />
-      <entry key="S60" value="0.011844510598300185" />
-      <entry key="M2" value="0.10915108130414243" />
-      <entry key="M5" value="0.4517684624164119" />
-      <entry key="M10" value="0.8416109145856646" />
-      <entry key="M15" value="1.085851901041923" />
-      <entry key="M30" value="1.4472379084508205" />
-      <entry key="H1" value="1.693384693649829" />
-      <entry key="H2" value="1.8381514767019411" />
-      <entry key="H4" value="1.9168031023798602" />
-      <entry key="D1" value="1.9858057895151815" />
-      <entry key="W1" value="1.9979640542451855" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.1526330433798677E-140" />
+      <entry key="S5" value="1.0584648156999042E-56" />
+      <entry key="S10" value="1.028817192556532E-28" />
+      <entry key="S30" value="4.685753134880748E-10" />
+      <entry key="S60" value="2.164678655233516E-5" />
+      <entry key="M2" value="0.004666230621760566" />
+      <entry key="M5" value="0.12802393528294556" />
+      <entry key="M10" value="0.44802163897030595" />
+      <entry key="M15" value="0.713229038770091" />
+      <entry key="M30" value="1.17292202157084" />
+      <entry key="H1" value="1.524474748706347" />
+      <entry key="H2" value="1.7440687482187076" />
+      <entry key="H4" value="1.867104625825657" />
+      <entry key="D1" value="1.9771303269379392" />
+      <entry key="W1" value="1.996714773412906" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.47302882336279795" />
-      <entry key="MS500" value="0.860949188338904" />
-      <entry key="S2" value="0.9632623924481909" />
-      <entry key="S5" value="0.9931833648284288" />
-      <entry key="S10" value="1.2147248282756726" />
-      <entry key="S30" value="3.515122321560243" />
-      <entry key="S60" value="6.885277280471985" />
-      <entry key="M2" value="12.940358782237356" />
-      <entry key="M5" value="31.652904281316438" />
-      <entry key="M10" value="64.74538667486965" />
-      <entry key="M15" value="90.71561639524457" />
-      <entry key="M30" value="134.50970967304548" />
-      <entry key="H1" value="167.31207370977972" />
-      <entry key="H2" value="187.5728498079057" />
-      <entry key="H4" value="198.85858191034046" />
-      <entry key="D1" value="208.9140629250419" />
-      <entry key="W1" value="210.70044160668652" />
+      <entry key="MS100" value="0.7845840978967508" />
+      <entry key="MS500" value="0.952637998088116" />
+      <entry key="S2" value="0.9928989674073857" />
+      <entry key="S5" value="1.2214092644516141" />
+      <entry key="S10" value="1.8739722674940849" />
+      <entry key="S30" value="3.7463938229366405" />
+      <entry key="S60" value="4.978259109623052" />
+      <entry key="M2" value="6.401422012844264" />
+      <entry key="M5" value="15.471393665793808" />
+      <entry key="M10" value="41.210344508430765" />
+      <entry key="M15" value="66.41319243416966" />
+      <entry key="M30" value="115.92720612217235" />
+      <entry key="H1" value="157.57953766890583" />
+      <entry key="H2" value="184.95036085879616" />
+      <entry key="H4" value="200.6916627392581" />
+      <entry key="D1" value="214.99954485242054" />
+      <entry key="W1" value="217.56843436048695" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LjPO5lsGAK1hxGzuQvyGSZ1Cyk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -135,8 +140,9 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature/set-up-django",
+    "git-widget-placeholder": "feature/static-assets",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/sshuk/PycharmProjects/Group4-django-bootstrap-project/assets/js",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -146,47 +152,15 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="Group4-django-bootstrap-project" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Group4-django-bootstrap-project" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sshuk\PycharmProjects\Group4-django-bootstrap-project\assets" />
+      <recent name="C:\Users\sshuk\PycharmProjects\Group4-django-bootstrap-project\assets\js" />
+      <recent name="C:\Users\sshuk\PycharmProjects\Group4-django-bootstrap-project\assets\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sshuk\PycharmProjects\Group4-django-bootstrap-project\assets\images" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -231,5 +205,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stach changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="stach changes" />
   </component>
 </project>
