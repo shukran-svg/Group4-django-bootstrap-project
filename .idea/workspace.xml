@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b3b225f-3410-46d8-b825-206dce75262e" name="Changes" comment="" />
+    <list default="true" id="1b3b225f-3410-46d8-b825-206dce75262e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Group4-django-bootstrap-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Group4-django-bootstrap-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog-post.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3Lp8BSI1ep7JiJJ30d3QdQzyZ85" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,20 +41,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.Group4-django-bootstrap-project.executor": "Run",
     "JavaScript Debug.about.html.executor": "Run",
     "JavaScript Debug.blog-home.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.urls.executor": "Debug",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
+    "git-widget-placeholder": "feature/page-template",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.urls">
+  <component name="RunManager" selected="JavaScript Debug.blog-home.html">
     <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Group4-django-bootstrap-project/templates/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="blog-home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Group4-django-bootstrap-project/templates/blog-home.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -72,8 +88,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Group4-django-bootstrap-project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Group4-django-bootstrap-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.blog-home.html" />
         <item itemvalue="Python.urls" />
         <item itemvalue="JavaScript Debug.about.html" />
       </list>
@@ -93,7 +136,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1794139513010</updated>
-      <workItem from="1794139514038" duration="16575000" />
+      <workItem from="1794139514038" duration="19303000" />
+      <workItem from="1794164186510" duration="189000" />
+      <workItem from="1794164450973" duration="65000" />
+      <workItem from="1794164553588" duration="1104000" />
+      <workItem from="1794205137171" duration="1260000" />
+      <workItem from="1794249832771" duration="6936000" />
+      <workItem from="1794266699908" duration="2387000" />
+      <workItem from="1794269371041" duration="11346000" />
     </task>
     <servers />
   </component>
