@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1b3b225f-3410-46d8-b825-206dce75262e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog-post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,61 +61,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000002" />
-      <entry key="S2" value="1.000172686873263" />
-      <entry key="S5" value="1.053523328757738" />
-      <entry key="S10" value="1.3904799287457394" />
-      <entry key="S30" value="2.511004307715229" />
-      <entry key="S60" value="3.1274015146660332" />
-      <entry key="M2" value="3.525800323781629" />
-      <entry key="M5" value="3.8111688393236025" />
-      <entry key="M10" value="4.224359810480427" />
-      <entry key="M15" value="5.1289655718409035" />
-      <entry key="M30" value="10.517810886723048" />
-      <entry key="H1" value="28.9904949154784" />
-      <entry key="H2" value="65.59941184394478" />
-      <entry key="H4" value="106.81805361344071" />
-      <entry key="D1" value="166.06228467676522" />
-      <entry key="W1" value="179.62111832230855" />
+      <entry key="MS100" value="9.193994830141597E-38" />
+      <entry key="MS500" value="5.6355903550326554E-8" />
+      <entry key="S2" value="0.04092600191593959" />
+      <entry key="S5" value="0.7736828936980246" />
+      <entry key="S10" value="2.298435062628722" />
+      <entry key="S30" value="11.916472055291436" />
+      <entry key="S60" value="27.543313007674687" />
+      <entry key="M2" value="49.219734438293216" />
+      <entry key="M5" value="82.2583531375849" />
+      <entry key="M10" value="102.82904665947721" />
+      <entry key="M15" value="111.5906250131178" />
+      <entry key="M30" value="121.59452191544517" />
+      <entry key="H1" value="128.25481494602943" />
+      <entry key="H2" value="143.118599951678" />
+      <entry key="H4" value="179.25924537028354" />
+      <entry key="D1" value="277.9664019293104" />
+      <entry key="W1" value="309.17625751750114" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="6.295683841293651E-218" />
-      <entry key="S30" value="4.096897572146783E-73" />
-      <entry key="S60" value="7.398684484551096E-37" />
-      <entry key="M2" value="1.1417811835399288E-18" />
-      <entry key="M5" value="1.1718190330677391E-7" />
-      <entry key="M10" value="6.587213757294035E-4" />
-      <entry key="M15" value="0.012636534583455128" />
-      <entry key="M30" value="0.2869444417757097" />
-      <entry key="H1" value="1.7315479057307233" />
-      <entry key="H2" value="4.835903710723275" />
-      <entry key="H4" value="8.405660378835032" />
-      <entry key="D1" value="13.595614995168527" />
-      <entry key="W1" value="14.790192894447353" />
+      <entry key="MS100" value="1.0000000000000002" />
+      <entry key="MS500" value="1.0007329487780832" />
+      <entry key="S2" value="1.1645388305613684" />
+      <entry key="S5" value="1.4858557674923225" />
+      <entry key="S10" value="1.697033548326571" />
+      <entry key="S30" value="1.8867143588312172" />
+      <entry key="S60" value="1.9497674256137003" />
+      <entry key="M2" value="2.0606348164470374" />
+      <entry key="M5" value="2.3701663855678636" />
+      <entry key="M10" value="2.6121653182762183" />
+      <entry key="M15" value="2.7216611255133243" />
+      <entry key="M30" value="2.8503149744441094" />
+      <entry key="H1" value="2.9912399101661085" />
+      <entry key="H2" value="3.927515146541892" />
+      <entry key="H4" value="6.739278457332301" />
+      <entry key="D1" value="14.885918132129142" />
+      <entry key="W1" value="17.509050231765137" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.907220453014944E-5" />
-      <entry key="MS500" value="0.12379285899162831" />
-      <entry key="S2" value="0.59329357337272" />
-      <entry key="S5" value="0.8511052501909134" />
-      <entry key="S10" value="1.21988592942016" />
-      <entry key="S30" value="2.3609566312821597" />
-      <entry key="S60" value="3.0238151414174084" />
-      <entry key="M2" value="3.464405728861044" />
-      <entry key="M5" value="3.783906476943217" />
-      <entry key="M10" value="4.210888749638583" />
-      <entry key="M15" value="5.132012770351164" />
-      <entry key="M30" value="10.79918444281064" />
-      <entry key="H1" value="30.71714599031961" />
-      <entry key="H2" value="70.43064329348395" />
-      <entry key="H4" value="115.22014783679657" />
-      <entry key="D1" value="179.657017584775" />
-      <entry key="W1" value="194.4111759283773" />
+      <entry key="MS100" value="4.244000302544442E-8" />
+      <entry key="MS500" value="0.03354033023789001" />
+      <entry key="S2" value="0.4985329821725225" />
+      <entry key="S5" value="1.7261278250315315" />
+      <entry key="S10" value="3.629639455069968" />
+      <entry key="S30" value="13.6433872231848" />
+      <entry key="S60" value="29.40123459661298" />
+      <entry key="M2" value="51.21939393344645" />
+      <entry key="M5" value="84.58861618968082" />
+      <entry key="M10" value="105.41554680883245" />
+      <entry key="M15" value="114.29348865166453" />
+      <entry key="M30" value="124.43445203886506" />
+      <entry key="H1" value="131.24039827598878" />
+      <entry key="H2" value="147.04237814913662" />
+      <entry key="H4" value="185.9955091849202" />
+      <entry key="D1" value="292.85130944732276" />
+      <entry key="W1" value="326.6851407872715" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -136,7 +132,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
-    "Django Server.Group4-django-bootstrap-project.executor": "Run",
+    "Django Server.Group4-django-bootstrap-project.executor": "Debug",
     "JavaScript Debug.about.html.executor": "Run",
     "JavaScript Debug.blog-home.html.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -150,7 +146,8 @@
     "git-widget-placeholder": "feature/documentation",
     "last_opened_file_path": "C:/Users/sshuk/PycharmProjects/Group4-django-bootstrap-project/assets/images",
     "node.js.selected.package.tslint": "(autodetect)",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.intellij.python.django.customization.DjangoModulesConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -237,8 +234,10 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="core.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\Group4-django-bootstrap-project\venv" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
