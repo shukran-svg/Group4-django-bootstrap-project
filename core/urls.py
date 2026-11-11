@@ -20,15 +20,15 @@ from myapp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.home, name='home'),
+    path('', views.home, name='index'),
     path('about/', views.about, name='about'),
     path('contact/', views.contact, name='contact'),
     path('faq/', views.faq, name='faq'),
-    path('portfolio-item/', views.portfolio_item, name='portfolio_item'),
-    path('portfolio-overview/', views.portfolio_overview, name='portfolio_overview'),
+    path('portfolio-item/', views.portfolio_item, name='portfolio-item'),
+    path('portfolio-overview/', views.portfolio_overview, name='portfolio-overview'),
     path('pricing/', views.pricing, name='pricing'),
-    path('index/', views.index, name='index'),
-    path('blog-post/', views.blog_post, name='blog_post'),
 
+    path('blog-post/', views.blog_post, name='blog-post'),
+    path('blog-home/', views.blog_home, name='blog-home'),
 
 ]
