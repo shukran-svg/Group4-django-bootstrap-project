@@ -30,4 +30,5 @@ urlpatterns = [
     path('index/', views.index, name='index'),
     path('blog-post/', views.blog_post, name='blog_post'),
 
+
 ]
